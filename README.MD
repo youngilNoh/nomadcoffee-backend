@@ -1,3 +1,0 @@
-#Nomadcoffee
-
-Nomadcoffee Backend.
