@@ -9,5 +9,9 @@ export const typeDefs = gql`
 		location: String!
 		avatarURL: String!
 		githubUsername: String!
+		followers: [User]
+		following: [User]
+		totalFollowing: Int!
+		totalFollowers: Int!
 	}
 `;
